@@ -1,5 +1,6 @@
 # Heart-Disease-Prediction
-This project is to predict whether a person has a cardiovascular Disease or not.
+This project is to predict whether a person has a cardiovascular Disease or not. 
+
 The data used for this project has been obtained from an open-source dataset from kaggle named Heart Failure Prediction Dataset (Fedesoriano, 2021).
 Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
