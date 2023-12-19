@@ -34,4 +34,4 @@ ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, 
 HeartDisease: output class [1: heart disease, 0: Normal]
 End Quote.
 
-This Heart Disease Prediction has been created for Educational purposes
+This Heart Disease Prediction has been created for Educational purposes of the HAN University of Applied Sciences, Arnhem, The Netherlands
